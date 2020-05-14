@@ -1,3 +1,10 @@
 * surface tension
 When surface tension that creats the total force is greater than the liqud's selfweight.
 ** problem can cause: [[failure of crank][https://youtu.be/Rj__lexd_BI?t=598]]
+** CFD
+
+@yfclark 在 [求解：interFOAM网格收敛做不到](/post/15498) 中说：
+> open foam的表面张力用的是很普通的csf模型
+
+- what csf?
+- write something about this tension?
