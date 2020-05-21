@@ -1,6 +1,6 @@
 * surface tension
 When surface tension that creats the total force is greater than the liqud's selfweight.
-** problem can cause: [[failure of crank][https://youtu.be/Rj__lexd_BI?t=598]]
+** problem can cause: [[https://youtu.be/Rj__lexd_BI?t=598][failure of crank]]
 ** CFD
 
 @yfclark 在 [求解：interFOAM网格收敛做不到](/post/15498) 中说：
